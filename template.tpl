@@ -19,7 +19,7 @@ ___INFO___
     "id": "brand_hoc_guard",
     "displayName": "HOC Guard"
   },
-  "description": "HOC Guard Consent Management Platform. Sets the Google consent mode default state (all denied, security_storage granted, customizable by region), loads the HOC Guard consent banner and updates ad_storage, ad_user_data, ad_personalization and analytics_storage according to the visitor's choice. Fire it on the 'Consent Initialization - All Pages' trigger.",
+  "description": "Sets the Google consent mode default state, loads the HOC Guard consent banner and updates ad_storage, ad_user_data, ad_personalization and analytics_storage based on the visitor's choice.",
   "containerContexts": [
     "WEB"
   ],
