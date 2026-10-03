@@ -1,5 +1,5 @@
 homepage: "https://guard.hoc.app.br"
 documentation: "https://github.com/HOCGuard/gtm-template-hoc-guard-cmp"
 versions:
-  - sha: b628638a8112a0576eae8859e5be076448696daf
+  - sha: 256b789fbff2a5d418b7c92ebef08097c3683b4a
     changeNotes: Initial release.
